@@ -19,14 +19,14 @@ its package manager (npm) installed.  You can get them from [http://nodejs.org/]
 Clone the insurance-marketplace repository using [git][git]:
 
 ```
-git clone https://github.com/angular/insurance-marketplace.git
+git clone git@github.com:crazyDiamond/insurance-marketplace.git
 cd insurance-marketplace
 ```
 
 If you just want to start a new project without the insurance-marketplace commit history then you can do:
 
 ```bash
-git clone --depth=1 https://github.com/angular/insurance-marketplace.git <your-project-name>
+git clone --depth=1 git@github.com:crazyDiamond/insurance-marketplace.git <your-project-name>
 ```
 
 The `depth=1` tells git to only pull down one commit worth of historical data.
