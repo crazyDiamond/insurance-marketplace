@@ -2,10 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03b9ce50-a977-415a-949a-286aaaa8f4ca" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/app.component.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/app.component.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/app.module.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/app.module.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/main.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/pet.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/pet.js.map" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.component.js" afterPath="$PROJECT_DIR$/app/app.component.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.component.js.map" afterPath="$PROJECT_DIR$/app/app.component.js.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.component.ts" afterPath="$PROJECT_DIR$/app/app.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/systemjs.config.js" afterPath="$PROJECT_DIR$/systemjs.config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tsconfig.json" afterPath="$PROJECT_DIR$/tsconfig.json" />
     </list>
     <ignored path="insurance-marketplace.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,42 +34,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="538">
-              <caret line="27" column="7" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/app.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+            <state relative-caret-position="385">
+              <caret line="35" column="29" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
               <folding>
-                <marker date="1479623000000" expanded="true" signature="108:316" ph="..." />
-                <marker date="1479623000000" expanded="true" signature="152:302" ph="..." />
-                <marker date="1479623000000" expanded="true" signature="192:287" ph="..." />
-                <marker date="1479623000000" expanded="true" signature="344:595" ph="..." />
-                <marker date="1479623000000" expanded="true" signature="345:595" ph="..." />
-                <marker date="1479623000000" expanded="true" signature="465:584" ph="..." />
-                <marker date="1479623000000" expanded="true" signature="508:571" ph="..." />
-                <marker date="1479623000000" expanded="true" signature="633:677" ph="..." />
-                <marker date="1479623000000" expanded="true" signature="653:659" ph="©" />
+                <marker date="1479624606000" expanded="false" signature="108:316" ph="..." />
+                <marker date="1479624606000" expanded="true" signature="152:302" ph="..." />
+                <marker date="1479624606000" expanded="true" signature="192:287" ph="..." />
+                <marker date="1479624606000" expanded="true" signature="327:984" ph="..." />
+                <marker date="1479624606000" expanded="true" signature="353:972" ph="..." />
+                <marker date="1479624606000" expanded="true" signature="388:720" ph="..." />
+                <marker date="1479624606000" expanded="true" signature="424:701" ph="..." />
+                <marker date="1479624606000" expanded="true" signature="479:678" ph="..." />
+                <marker date="1479624606000" expanded="true" signature="560:652" ph="..." />
+                <marker date="1479624606000" expanded="false" signature="764:957" ph="..." />
+                <marker date="1479624606000" expanded="true" signature="800:941" ph="..." />
+                <marker date="1479624606000" expanded="true" signature="1017:1061" ph="..." />
+                <marker date="1479624606000" expanded="true" signature="1037:1043" ph="©" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.module.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/app.module.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -81,14 +73,14 @@
       <list>
         <option value="$PROJECT_DIR$/app/app.js" />
         <option value="$PROJECT_DIR$/app/index.html" />
-        <option value="$PROJECT_DIR$/tsconfig.json" />
         <option value="$PROJECT_DIR$/app/pet.ts" />
         <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/systemjs.config.js" />
         <option value="$PROJECT_DIR$/app/pet.js" />
         <option value="$PROJECT_DIR$/app/app.module.ts" />
         <option value="$PROJECT_DIR$/app/main.ts" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/tsconfig.json" />
+        <option value="$PROJECT_DIR$/systemjs.config.js" />
         <option value="$PROJECT_DIR$/app/app.component.ts" />
       </list>
     </option>
@@ -103,9 +95,9 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="572" />
+    <option name="x" value="213" />
     <option name="y" value="23" />
-    <option name="width" value="868" />
+    <option name="width" value="1227" />
     <option name="height" value="873" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -136,92 +128,7 @@
       <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="insurance-marketplace" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="insurance-marketplace" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="insurance-marketplace" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="insurance-marketplace" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="insurance-marketplace" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pet.ts" />
-              <option name="myItemType" value="com.intellij.lang.typescript.compiler.ui.projectView.TypeScriptNestingTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="insurance-marketplace" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="insurance-marketplace" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="insurance-marketplace" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="insurance-marketplace" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app.module.ts" />
-              <option name="myItemType" value="com.intellij.lang.typescript.compiler.ui.projectView.TypeScriptNestingTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="insurance-marketplace" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="insurance-marketplace" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app.component.ts" />
-              <option name="myItemType" value="com.intellij.lang.typescript.compiler.ui.projectView.TypeScriptNestingTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
+        <subPane />
       </pane>
       <pane id="PackagesPane" />
     </panes>
@@ -638,15 +545,15 @@
       <updated>1479435505672</updated>
       <workItem from="1479435508067" duration="4061000" />
       <workItem from="1479478574465" duration="11000" />
-      <workItem from="1479528071346" duration="6748000" />
+      <workItem from="1479528071346" duration="8290000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10820000" />
+    <option name="totallyTimeSpent" value="12362000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="572" y="23" width="868" height="873" extended-state="0" />
+    <frame x="213" y="23" width="1227" height="873" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -661,7 +568,7 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23179395" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19805194" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -794,22 +701,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/systemjs.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1034">
-          <caret line="49" column="9" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tsconfig.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/pet.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
@@ -852,20 +743,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/systemjs.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/app.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+        <state relative-caret-position="385">
+          <caret line="35" column="29" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
           <folding>
-            <marker date="1479623000000" expanded="true" signature="108:316" ph="..." />
-            <marker date="1479623000000" expanded="true" signature="152:302" ph="..." />
-            <marker date="1479623000000" expanded="true" signature="192:287" ph="..." />
-            <marker date="1479623000000" expanded="true" signature="344:595" ph="..." />
-            <marker date="1479623000000" expanded="true" signature="345:595" ph="..." />
-            <marker date="1479623000000" expanded="true" signature="465:584" ph="..." />
-            <marker date="1479623000000" expanded="true" signature="508:571" ph="..." />
-            <marker date="1479623000000" expanded="true" signature="633:677" ph="..." />
-            <marker date="1479623000000" expanded="true" signature="653:659" ph="©" />
+            <marker date="1479624606000" expanded="false" signature="108:316" ph="..." />
+            <marker date="1479624606000" expanded="true" signature="152:302" ph="..." />
+            <marker date="1479624606000" expanded="true" signature="192:287" ph="..." />
+            <marker date="1479624606000" expanded="true" signature="327:984" ph="..." />
+            <marker date="1479624606000" expanded="true" signature="353:972" ph="..." />
+            <marker date="1479624606000" expanded="true" signature="388:720" ph="..." />
+            <marker date="1479624606000" expanded="true" signature="424:701" ph="..." />
+            <marker date="1479624606000" expanded="true" signature="479:678" ph="..." />
+            <marker date="1479624606000" expanded="true" signature="560:652" ph="..." />
+            <marker date="1479624606000" expanded="false" signature="764:957" ph="..." />
+            <marker date="1479624606000" expanded="true" signature="800:941" ph="..." />
+            <marker date="1479624606000" expanded="true" signature="1017:1061" ph="..." />
+            <marker date="1479624606000" expanded="true" signature="1037:1043" ph="©" />
           </folding>
         </state>
       </provider>

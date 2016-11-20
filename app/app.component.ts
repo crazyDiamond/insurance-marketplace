@@ -10,16 +10,28 @@ import { Component } from '@angular/core';
             </div>
         </nav>
     </header>
-    <div class="jumbotron" >
-      <h1 align="center">Welcome to</h1>
-      <h1 align="center">Insurance Marketplace!</h1>
-      <div *ngIf="users">
-          <div *ngFor="let user of users">
-            {{user.name}} ({{user.username}})
-          </div>
-      </div>
-    </div>
-    
+    <main>
+        <div class="row">
+            <div class="col-sm-4">
+                <div *ngIf="users">
+                    <ul class="list-group users-list" >
+                        <li class="list-group-item" *ngFor="let user of users">
+                            {{user.name}} ({{user.username}})
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        
+            <div class="col-sm-8">
+            <div class="jumbotron" >
+                <h1 align="center">Welcome to</h1>
+                <h1 align="center">Insurance Marketplace!</h1>
+      
+            </div>
+
+        </div>
+        </div>
+    </main>
     <footer class="text-center">
         Copyright &copy; 2016
     </footer>
