@@ -1,8 +1,7 @@
 class Greeter{
-    saySomething(message: string= 'whats up'){
+    static saySomething(message: string= 'whats up'){
         return message + 'something';
     }
 }
 
-var greeter = new Greeter();
-greeter.saySomething('hello');
+Greeter.saySomething('hello');
