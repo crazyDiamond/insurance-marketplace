@@ -3,5 +3,6 @@ Insurance Marketplace is meant to bring pets, owners, healthcare providers and i
 
 ####To run
     1. Fork to your repository
-    2. npm start
+    2. npm install
+    3. npm start
     
