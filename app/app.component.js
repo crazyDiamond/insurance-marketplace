@@ -11,11 +11,16 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 var core_1 = require('@angular/core');
 var AppComponent = (function () {
     function AppComponent() {
+        this.message = 'Hello!';
+        this.users = [{ id: 25, name: 'Lane', username: 'crazyLane' },
+            { id: 26, name: 'Henry', username: 'henryThe' },
+            { id: 27, name: 'Jennifer', username: 'jFur' }
+        ];
     }
     AppComponent = __decorate([
         core_1.Component({
             selector: 'my-app',
-            template: "\n    <div class=\"jumbotron\">\n      <h1>Welcome to Insurance Marketplace!</h1>\n    </div>\n  ",
+            template: "\n    <header>\n        <nav class=\"navbar navbar-inverse\">\n            <div class=\"navbar-header\">\n                <a href=\"/\" class=\"navbar-brand\">Insurance Marketplace!</a>\n            </div>\n        </nav>\n    </header>\n    <div class=\"jumbotron\" >\n      <h1 align=\"center\">Welcome to</h1>\n      <h1 align=\"center\">Insurance Marketplace!</h1>\n      <div *ngIf=\"users\">\n          <div *ngFor=\"let user of users\">\n            {{user.name}} ({{user.username}})\n          </div>\n      </div>\n    </div>\n    \n    <footer class=\"text-center\">\n        Copyright &copy; 2016\n    </footer>\n    ",
             styles: ["\n    .jumbotron { box-shadow: 0 2px 0 rgba(0, 0, 0, 0.2); }\n  "]
         }), 
         __metadata('design:paramtypes', [])
