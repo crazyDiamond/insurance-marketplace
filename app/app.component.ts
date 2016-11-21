@@ -25,7 +25,8 @@ import { Component } from '@angular/core';
             </div>
         
             <div class="col-sm-8">
-            <div class="jumbotron" >
+            <div class="jumbotron" *ngIf="activeUser" >
+                <h2>{{activeUser.name}} <small>{{activeUser.username}}</small></h2>
                 <h1 align="center">Welcome to</h1>
                 <h1 align="center">Insurance Marketplace!</h1>
       
