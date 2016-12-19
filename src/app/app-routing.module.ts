@@ -1,8 +1,9 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
+import {RegisterPetComponent} from "./register-pet/register-pet.component";
 
 const routes: Routes = [
-  // { path: 'jeeva', component: JeevasComponent }
+  { path: 'registerPet', component: RegisterPetComponent }
 ];
 
 @NgModule({
